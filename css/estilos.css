@@ -300,6 +300,6 @@ footer .redes-sociales .instagram:hover {
   footer .redes-sociales .contenedor{
 
     flex-wrap: wrap;
-    padding: 20px;
+    padding: 20px 0;
   }
 }
