@@ -20,7 +20,7 @@ body {
 /* Header*/
 
 header {
-  background: url("../img/bg.jpg") #49a3d6;
+  background: url("../img/bg.png") #49a3d6;
   background-repeat: no-repeat;
   background-position: center;
   min-height: 600px;
@@ -94,7 +94,7 @@ header .contenedortexto .texto .profesion {
 .main .acerca-de .foto img {
   vertical-align: top;
   border-radius: 50%;
-  border: 5px solid rgba(255, 255, 255, 0.2);
+  border: 5px solid rgba(128, 15, 15, 0.2);
 }
 
 .main .acerca-de .texto {
@@ -110,7 +110,7 @@ header .contenedortexto .texto .profesion {
   font-size: 34px;
   margin-bottom: 40px;
   font-weight: 300;
-  color: #dd820d;
+  color: red;
   text-align: center;
   line-height: 30px;
 }
